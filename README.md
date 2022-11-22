@@ -1,2 +1,2 @@
-#### Face Detection ML Project
-##### The Streamlit Application : https://ranyacharef-face-detection-ml-app-255p14.streamlit.app/
+#### Iris Prediction ML Project
+###### Test the application here : https://ranyacharef-face-detection-ml-app-255p14.streamlit.app/
